@@ -1,0 +1,9 @@
+{
+  "description": "Development Configuration",
+  "uuid": "866d074e-bc03-49a6-941a-11ebc1b3f136",
+  "date_start": "2022-10-25T12:00:00.0",
+  "date_end": null,
+  "type": "instrument",
+  "name": "TARSIS",
+  "components": []
+}
