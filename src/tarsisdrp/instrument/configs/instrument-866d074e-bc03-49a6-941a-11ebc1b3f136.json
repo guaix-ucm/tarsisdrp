@@ -5,5 +5,10 @@
   "date_end": null,
   "type": "instrument",
   "name": "TARSIS",
-  "components": []
+  "components": [
+    {"id": "detector_red", "uuid": "bb6b6037-b71a-48af-9eae-560a215e36c8"},
+    {"id": "detector_blue1", "uuid": "386ebb02-e6f4-485f-8462-c34751f93738"},
+    {"id": "detector_blue2", "uuid": "d7141ac9-f72d-4760-8de0-59c07d773f17"},
+    {"id": "detector_blue3", "uuid": "f77f79b6-21da-4973-adf9-8d7525285c0c"}
+  ]
 }

@@ -1,0 +1,15 @@
+{
+  "name": "detector_red",
+  "type": "component",
+  "description": "Detector configuration",
+  "uuid": "bb6b6037-b71a-48af-9eae-560a215e36c8",
+  "date_start": "2025-05-07T14:00:00",
+  "date_end": null,
+  "configurations": {
+    "channels": {
+      "depends": [
+      ],
+      "values": "FULL"
+    }
+  }
+}

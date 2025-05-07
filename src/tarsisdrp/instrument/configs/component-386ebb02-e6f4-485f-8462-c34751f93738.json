@@ -1,0 +1,15 @@
+{
+  "name": "detector_blue1",
+  "type": "component",
+  "description": "Detector configuration",
+  "uuid": "386ebb02-e6f4-485f-8462-c34751f93738",
+  "date_start": "2025-05-07T14:00:00",
+  "date_end": null,
+  "configurations": {
+    "channels": {
+      "depends": [
+      ],
+      "values": "FULL"
+    }
+  }
+}
