@@ -16,9 +16,15 @@ modes:
   key: TarsisFail
   tagger: null
   rawimage: IMAGE_TEST
+- name: test1
+  key: test1
+  summary: Subtraction of two images
+  description: >
+    Full description of test1 mode.
 pipelines:
   default:
     version: 1
     recipes:
       TarsisSuccess: numina.core.utils.AlwaysSuccessRecipe
       TarsisFail: numina.core.utils.AlwaysFailRecipe 
+      test1: tarsisdrp.recipes.auxiliary.Test1Recipe
